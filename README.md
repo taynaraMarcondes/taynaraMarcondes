@@ -116,6 +116,8 @@ I'm a backend developer proficient in Node.js and Python. My key strengths lie i
     <li>Bot creation (covering link handling and group data acquisition)</li>
     <li>Facebook API integration for analytics data extraction and presentation on a platform</li>
     <li>Development of web backend APIs</li>
+    <li>Telemetry and tracing of APIs</li>
+    <li>E2E and unity tests</li>
 </ul>
 <p>
     <img
@@ -137,6 +139,14 @@ I'm a backend developer proficient in Node.js and Python. My key strengths lie i
     <img
         alt="Facebook"
         src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"
+    />
+    <img
+        alt="Jaeger"
+        src="https://img.shields.io/badge/-Jaeger-67cfe3?style=flat-square&logo=jaeger&logoColor=white"
+    />
+    <img
+        alt="Jest"
+        src="https://img.shields.io/badge/-Jest-F6A600?style=flat-square&logo=jest&logoColor=white"
     />
 </p>
 
